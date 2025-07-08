@@ -1,0 +1,1 @@
+print("I prefer using ChatGPT for coding and conversations <3")
